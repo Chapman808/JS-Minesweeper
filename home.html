@@ -1,0 +1,28 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script src="scripts/grid.js"></script>
+    <script src="scripts/cell.js"></script>
+    <script src="scripts/helperFunctions.js"></script>
+    <script src="scripts/minesweeper.js"></script>
+</head>
+<body>
+    <header>Chapsweeper </header>
+    <div class="container">
+        <div id="game-frame">
+            <div id="minesweeper-header">
+                <div id="options">
+                    #Mines: <input type="number" style="width: 50px;" value="10" maxlength="2" id="mine-amount-input">
+                    Size-X: <input type="number" style="width: 50px;" value="10" maxlength="2" id="grid-size-x-input">
+                    Size-Y: <input type="number" style="width: 50px;" value="10" maxlength="2" id="grid-size-y-input">
+                    <input type="submit" style="margin: 5px;" id="submit-options"></input>
+                </div>
+                <p id="message"></p>
+            </div>
+            <div id="game-grid-container"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
