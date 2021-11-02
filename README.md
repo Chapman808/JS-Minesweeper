@@ -1,8 +1,8 @@
 # Minesweeper
 
-This repository is a Minesweeper game to demonstrate some of the JS skills I picked up in my personal time. I have make lots of progress since I wrote this application, but I'm still proud of it!
+The classi Minesweeper game, written in client-side JS.
 
-Check out the demo at the following URL:
+Check out the demo at the following URL or download the application locally:
 
 http://34.212.179.48/
 
