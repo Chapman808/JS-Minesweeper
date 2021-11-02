@@ -2,7 +2,7 @@
 
 The classi Minesweeper game, written in client-side JS.
 
-Check out the demo at the following URL or download the application locally:
+Check out the demo at the following URL or download the application locally and open index.html in a browser:
 
 http://34.212.179.48/
 
