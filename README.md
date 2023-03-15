@@ -1,9 +1,12 @@
 # Minesweeper
 
-The classi Minesweeper game, written in client-side JS.
+The classic Minesweeper game, written in JS.
 
-Check out the demo at the following URL or download the application locally and open home.html in a browser:
+# Deployment / Usage
 
-http://ec2-34-212-179-48.us-west-2.compute.amazonaws.com/
+This was originally on my website, but now it need to be run locally or deployed to a web server.
+
+Clone this repo and open home.html in a browser:
+
 
 ![image](https://user-images.githubusercontent.com/16928672/135676929-0e1e5a70-ca77-4376-b93d-eb4d5eacb969.png)
