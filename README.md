@@ -25,4 +25,5 @@ Right click to place (or unplace) a flag. This marks a spot where you think a mi
 
 Clicking the Submit button will apply any settings, and restart the game. 
 
-![image](https://user-images.githubusercontent.com/16928672/135676929-0e1e5a70-ca77-4376-b93d-eb4d5eacb969.png)
+![image](https://user-images.githubusercontent.com/16928672/225418183-2b74888f-5080-43af-b601-61d8649f4c3d.png)
+
